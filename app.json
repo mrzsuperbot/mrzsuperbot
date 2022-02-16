@@ -1,7 +1,7 @@
 {
-  "name": "Venz-Userbot",
+  "name": "mrzsuperbot",
   "description": "USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
-  "logo": "https://telegra.ph/file/e43056fdbf77c034618aa.jpg",
+  "logo": "https://telegra.ph/file/785684e4809f7fe898b2e.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/eldy020502/Venz-Userbot/Venz-Userbot",
-  "telegram": "https://t.me/vnotv",
-  "success_url": "https://t.me/venzproject",
+  "repository": "https://github.com/mrzsuperbot/mrzsuperbot",
+  "telegram": "",
+  "success_url": "",
   "stack": "container",
   "env": {
     "API_KEY": {
@@ -24,11 +24,11 @@
     },
     "ALIVE_LOGO": {
       "description": "Gambar dalam module .alive",
-      "value": "https://telegra.ph/file/e43056fdbf77c034618aa.jpg",
+      "value": "https://telegra.ph/file/785684e4809f7fe898b2e.jpg",
       "required": false
     },
      "STRING_SESSION": {
-      "description": "Dapatkan String Session di termux caranya ada di repo, jika tidak tau reponya tanya ke @IDnyaKosong di telegram",
+      "description": "Dapatkan String Session ",
       "required": true
     },
     "HEROKU_APP_NAME": {
